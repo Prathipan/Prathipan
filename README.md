@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **HCL Technologies**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m having good knowledge in **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://prathipan-portfolio.netlify.app](https://prathipan-portfolio.netlify.app)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, MongoDB, ExpressJS, NodeJS**
 
 - 📫 How to reach me **prathipan24p@gmail.com**
 
