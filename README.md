@@ -11,7 +11,7 @@
 
 - 🌱 I’m having good knowledge in **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://prathipan-portfolio.netlify.app](https://prathipan-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-prathipan.netlify.app/](https://react-portfolio-prathipan.netlify.app/)
 
 - 💬 Ask me about **Javascript, React, MongoDB, ExpressJS, NodeJS**
 
